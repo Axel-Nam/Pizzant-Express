@@ -1,7 +1,7 @@
   Pizzant Express - Sistema de Gestión de Base de Datos (SQL Server)
 
     Descripción del Proyecto
-Este proyecto diseña e implementa una base de datos relacional orientada a la **Pizzería Pizzant Express** (ubicada en Villa El Salvador)[cite: 5]. El objetivo principal es resolver el desequilibrio en la gestión de inventario y pedidos, optimizando el control del stock de insumos, las órdenes de compra a proveedores y el registro completo del flujo de ventas y recetas.
+Este proyecto diseña e implementa una base de datos relacional orientada a la **Pizzería Pizzant Express** (ubicada en Villa El Salvador). El objetivo principal es resolver el desequilibrio en la gestión de inventario y pedidos, optimizando el control del stock de insumos, las órdenes de compra a proveedores y el registro completo del flujo de ventas y recetas.
 
 ---
 
